@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bashar Taha</h1>
+<h3 align="center">Mobile Developer | Flutter Enthusiast | CS Student</h3>
 
-<!--
-**BasharTaha06/bashartaha06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Flutter+Developer;Computer+Science+Student;I+love+building+cool+projects!" />
+</p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **advanced Flutter, .NET, and AI**
+- 👨‍💻 My main focus: [Autistic Children App](https://github.com/BasharTaha06/Autistic_Children_App)
+- 🧠 Projects using AI: Connect 4 Minimax, Face & Voice Matching
+- 🛠 I’m working on a [Tourist App for Egypt](https://github.com/your-repo)
+- 📫 How to reach me: bashar@example.com (or your LinkedIn)
+- ⚡ Fun fact: I love solving problems & building real solutions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=BasharTaha06&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BasharTaha06&theme=dark" width="48%" />
+</p>
