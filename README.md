@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning **advanced Flutter, .NET, and AI**
 - 👨‍💻 My main focus: [Autistic Children App](https://github.com/BasharTaha06/Autistic_Children_App)
 - 🧠 Projects using AI: Connect 4 Minimax, Face & Voice Matching
-- 🛠 I’m working on a [Tourist App for Egypt](https://github.com/your-repo)
-- 📫 How to reach me: bashar@example.com (or your LinkedIn)
+- 📫 How to reach me: eng.bashar.taha@gmail.com ()
 - ⚡ Fun fact: I love solving problems & building real solutions!
 
 ---
