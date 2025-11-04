@@ -4,13 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Flutter+Developer;Computer+Science+Student;I+love+building+cool+projects!" />
 </p>
-
-- 🌱 I’m currently learning **advanced Flutter, .NET, and AI**
-- 👨‍💻 My main focus: [Autistic Children App](https://github.com/BasharTaha06/Autistic_Children_App)
-- 🧠 Projects using AI: Connect 4 Minimax, Face & Voice Matching
-- 📫 How to reach me: eng.bashar.taha@gmail.com 
-- ⚡ Fun fact: I love solving problems & building real solutions!
-
 ---
 
 ### 🛠 Languages and Tools
