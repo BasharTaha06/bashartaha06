@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Flutter+Developer;Computer+Science+Student;I+love+building+cool+projects!" />
 </p>
----
 
 ### 🛠 Languages and Tools
 <p align="left">
