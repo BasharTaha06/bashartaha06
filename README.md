@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bashar Taha</h1>
-<h3 align="center">Mobile Developer | Flutter Developer | CS Student</h3>
+<h3 align="center">Mobile Developer | Flutter Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Flutter+Developer;Computer+Science+Student;Freelance+Developer;I+love+building+cool+projects!" alt="Typing Animation" />
 </p>
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science student currently building my **graduation project** alongside an awesome team.
 - 💼 Working as a **freelance developer**, delivering end-to-end mobile apps and backend solutions.
-- 🌱 Currently expanding my backend architecture skills and exploring **Go (Golang)**.
-- ⚡ Fun fact: I love bridging the gap between a beautiful UI and a robust, scalable backend!
-
+  
 ---
 
 ### 🛠 Languages, Frameworks, and Tools
