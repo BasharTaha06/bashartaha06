@@ -30,20 +30,25 @@
 
 <p align="center">
   <b>📱 Mobile & Frontend</b><br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart,flutter,react,ts&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dart,flutter,react,ts&theme=light" />
-    <img src="https://skillicons.dev/icons?i=dart,flutter,react,ts" alt="Mobile & Frontend Stack" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
 </p>
 
 <p align="center">
   <b>⚙️ Backend, Systems & Tools</b><br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet,cs,laravel,go,py,cpp,firebase,git,github,vscode&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet,cs,laravel,go,py,cpp,firebase,git,github,vscode&theme=light" />
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,laravel,go,py,cpp,firebase,git,github,vscode" alt="Backend, Systems & Tools Stack" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+  <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
 </p>
 
 ---
