@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Flutter+Developer;Computer+Science+Student;Freelance+Developer;I+love+building+cool+projects!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Flutter+Developer;Freelance+Developer;I+love+building+cool+projects!" alt="Typing Animation" />
 </p>
 
 <p align="center">
