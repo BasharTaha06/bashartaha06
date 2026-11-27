@@ -8,10 +8,11 @@ on:
   # Allows manually running the workflow at any time from the Actions tab
   workflow_dispatch:
 
-  # Run on every push to the main branch
+  # Run on every push to main or the preview branch
   push:
     branches:
       - main
+      - feature/profile-upgrades
     paths-ignore:
       - "profile-3d-contrib/**"
 

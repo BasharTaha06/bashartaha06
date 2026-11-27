@@ -8,10 +8,11 @@ on:
   # Allows manually running the workflow at any time from the Actions tab
   workflow_dispatch:
 
-  # Run on push to main (ignoring commits made to the generated output folder)
+  # Run on push to main or the preview branch (ignoring commits to generated output folder)
   push:
     branches:
       - main
+      - feature/profile-upgrades
     paths-ignore:
       - "profile-3d-contrib/**"
 
@@ -40,5 +41,5 @@ jobs:
           git add -A profile-3d-contrib/
           if ! git diff --cached --quiet; then
             git commit -m "Update 3D contribution graph"
-            git push
+            git push origin "HEAD:${{ github.ref_name }}"
           fi
