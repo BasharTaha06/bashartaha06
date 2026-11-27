@@ -49,6 +49,17 @@
 
 ---
 
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BasharTaha06/bashartaha06/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BasharTaha06/bashartaha06/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/BasharTaha06/bashartaha06/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ### 🤝 Connect with Me
 <p align="left">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
