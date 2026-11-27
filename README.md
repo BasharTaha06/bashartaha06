@@ -47,8 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasharTaha06&layout=compact&theme=dark" />
 </p>
 
----
-
 
 <p align="center">
   <picture>
