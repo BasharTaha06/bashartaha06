@@ -49,7 +49,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BasharTaha06/bashartaha06/output/github-contribution-grid-snake-dark.svg" />
